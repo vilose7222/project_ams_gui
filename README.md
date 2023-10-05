@@ -7,7 +7,7 @@ frame 을 사용, DB연동을 활용한 계좌 관리 프로그램
 
 ## 기능 미리보기
 
-![ams](https://github.com/vilose7222/project_ams/assets/141006779/e4ae7fc5-c8a6-4ffc-9c31-72d2bb731a00)
+![ams2](https://github.com/vilose7222/project_ams_gui/assets/141006779/da43ea42-0b8b-4d68-b763-5b1ce9e4b9d5)
 
 
 
